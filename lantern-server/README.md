@@ -5,7 +5,7 @@ error while loading shared libraries: libappindicator3.so.1: cannot open shared 
 ```
 Here are the binary files:
 
-[lantern_linux_386_server](https://github.com/program-dog/lantern/blob/server/lantern-server/lantern_linux_386_server)
+[lantern_linux_386_server](https://github.com/program-dog/lantern/blob/server/lantern-server/lantern_linux_386_server)<br>
 [lantern_linux_amd64_server](https://github.com/program-dog/lantern/blob/server/lantern-server/lantern_linux_amd64_server)
 
 To run, maybe you should do this:
