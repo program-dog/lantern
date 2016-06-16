@@ -1,3 +1,5 @@
+You can [do it yourself](https://github.com/getlantern/lantern#building-lantern-for-running-on-a-server) if you do not trust this for security reasons.
+
 Here is a server version running on linux without desktop. So there is no this error[#3447](https://github.com/getlantern/lantern/issues/3447) : 
 
 ```
