@@ -19,6 +19,6 @@ chmod a+x lantern_linux_amd64_server
 and then,
 
 ```
-./lantern_linux_386_server  --addr 127.0.0.1:8787  2>lantern_error.log 
-./lantern_linux_amd64_server  --addr 127.0.0.1:8787 2>lantern_error.log 
+./lantern_linux_386_server  --addr 127.0.0.1:8787  2>/tmp/lantern_error.log  >/dev/null
+./lantern_linux_amd64_server  --addr 127.0.0.1:8787 2>/tmp/lantern_error.log >/dev/null
 ```
